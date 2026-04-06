@@ -41,7 +41,7 @@ Actualmente finalizando mi **TSU en Informática** (servicio comunitario) mientr
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2">
       <h3>📋 Boletín 360</h3>
       <p><em>Colaborador principal · Equipo TecnoChigüire</em></p>
       <p>Aplicación web integral para gestión escolar — administración de estudiantes, docentes, materias, calificaciones por lapsos y generación de reportes en PDF y Excel. Arquitectura MVC desplegada con Docker y Nginx.</p>
@@ -54,7 +54,7 @@ Actualmente finalizando mi **TSU en Informática** (servicio comunitario) mientr
       </p>
       <a href="https://github.com/IamRevan/Boletin360-main">📂 Repositorio</a>
     </td>
-    <td width="50%" valign="top">
+    <td colspan="2">
       <h3>🎮 Ratón Lúdico</h3>
       <p><em>Colaborador · Proyecto universitario</em></p>
       <p>Blog de reseñas y noticias sobre juegos indie con énfasis en rol y terror psicológico. Diseño oscuro, reproductor de música integrado, modo claro/oscuro y diseño responsivo.</p>
@@ -67,11 +67,12 @@ Actualmente finalizando mi **TSU en Informática** (servicio comunitario) mientr
       </p>
       <a href="https://github.com/lunahkq/ratonludico">📂 Repositorio</a>
     </td>
-     <td width="50%" valign="top">
-      <h3>PEC Web - Servicio comunitario</h3>
-      <p><em>desarrollador principal · Proyecto universitario</em></p>
+    <td colspan="2">
+       <h3>🤖​ PEC Web</h3>
+      <p><em>Colaboradora Principal · Proyecto Universitario</em></p>
       <p>Una plataforma web integral para instituciones educativas. Permite gestionar contenido institucional, noticias, galería de imágenes, eventos, chatbot con inteligencia artificial y 
-        administración completa del sitio.</p>
+        administración completa del sitio.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -79,8 +80,8 @@ Actualmente finalizando mi **TSU en Informática** (servicio comunitario) mientr
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      </p>
-      <a href="https://github.com/lunahkq/ratonludico">📂 Repositorio</a>
+     </p>
+        <a href="https://github.com/IamRevan/PEC-Web-Servicio-comunitario">📂 Repositorio</a>
     </td>
   </tr>
 </table>
