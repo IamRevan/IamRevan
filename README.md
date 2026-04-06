@@ -37,19 +37,48 @@ Actualmente finalizando mi **TSU en Informática** (servicio comunitario) mientr
 
 ---
 
+### 🚀 Proyectos destacados
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📋 Boletín 360</h3>
+      <p><em>Colaborador principal · Equipo TecnoChigüire</em></p>
+      <p>Aplicación web integral para gestión escolar — administración de estudiantes, docentes, materias, calificaciones por lapsos y generación de reportes en PDF y Excel. Arquitectura MVC desplegada con Docker y Nginx.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <a href="https://github.com/IamRevan/Boletin360-main">📂 Repositorio</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Ratón Lúdico</h3>
+      <p><em>Colaborador · Proyecto universitario</em></p>
+      <p>Blog de reseñas y noticias sobre juegos indie con énfasis en rol y terror psicológico. Diseño oscuro, reproductor de música integrado, modo claro/oscuro y diseño responsivo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <a href="https://github.com/lunahkq/ratonludico">📂 Repositorio</a>
+    </td>
+  </tr>
+</table>
+---
+
 ### 📊 GitHub stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=IamRevan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IamRevan/IamRevan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IamRevan/IamRevan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IamRevan/IamRevan/output/pacman-contribution-graph.svg">
-</picture>
-
 ---
+
 
 ### 📬 Conéctate conmigo
 
