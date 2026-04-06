@@ -67,6 +67,21 @@ Actualmente finalizando mi **TSU en Informática** (servicio comunitario) mientr
       </p>
       <a href="https://github.com/lunahkq/ratonludico">📂 Repositorio</a>
     </td>
+     <td width="50%" valign="top">
+      <h3>PEC Web - Servicio comunitario</h3>
+      <p><em>desarrollador principal · Proyecto universitario</em></p>
+      <p>Una plataforma web integral para instituciones educativas. Permite gestionar contenido institucional, noticias, galería de imágenes, eventos, chatbot con inteligencia artificial y 
+        administración completa del sitio.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <a href="https://github.com/lunahkq/ratonludico">📂 Repositorio</a>
+    </td>
   </tr>
 </table>
 ---
