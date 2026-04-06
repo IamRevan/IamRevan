@@ -69,7 +69,7 @@ Actualmente finalizando mi **TSU en Informática** (servicio comunitario) mientr
     </td>
     <td colspan="2">
        <h3>🤖​ PEC Web</h3>
-      <p><em>Colaboradora Principal · Proyecto Universitario</em></p>
+      <p><em>Desarrollador Principal · Proyecto Universitario</em></p>
       <p>Una plataforma web integral para instituciones educativas. Permite gestionar contenido institucional, noticias, galería de imágenes, eventos, chatbot con inteligencia artificial y 
         administración completa del sitio.
       </p>
